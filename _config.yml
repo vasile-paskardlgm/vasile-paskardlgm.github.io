@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Guoming Li's Homepage"
 title_separator          : "-"
-name                     : &Paskard Li"
+name                     : &name "Paskard Li"
 description              : &description "Was,is,will be a student"
 url                      : https://vasile-paskardlgm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
