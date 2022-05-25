@@ -12,7 +12,7 @@ I am now a first-year master student in Institute of Automation, Chinese Academy
 
 News
 ======
-To be updated.
+* To be updated.
 
 Education
 ======
@@ -21,11 +21,11 @@ Education
 
 Award
 =====
-To be updated.
+* To be updated.
 
 Publications
 =====
-To be updated.
+* To be updated.
 
 Project
 =====
