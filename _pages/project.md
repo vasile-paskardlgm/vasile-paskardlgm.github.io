@@ -7,4 +7,8 @@ redirect_from:
   - /project.html
 ---
 
-### A test
+### Both cooperative project and personal project are included.
+## Cooperative project
+* To be updated
+## Personal project
+* To be updated
