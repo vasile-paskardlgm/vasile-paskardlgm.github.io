@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: resume_guoming_li.pdf
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Project"
+    url: /markdown/
