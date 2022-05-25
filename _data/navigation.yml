@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /resume_guoming_li.pdf
+    url: /blob/master/files/resume_guoming_li.pdf
     
   - title: "Project"
     url: /project/
