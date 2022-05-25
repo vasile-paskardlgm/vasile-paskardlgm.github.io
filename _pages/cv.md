@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-### To know more about me, please click [CV](https://github.com/vasile-paskardlgm/vasile-paskardlgm.github.io/files/resume_guoming_li.pdf) for more details.
+### To know more about me, please click [CV]([https://github.com/vasile-paskardlgm/vasile-paskardlgm.github.io/files/resume_guoming_li.pdf](https://github.com/vasile-paskardlgm/vasile-paskardlgm.github.io/blob/master/files/resume_guoming_li.pdf)) for more details.
 
 Education
 ======
