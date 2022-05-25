@@ -8,9 +8,15 @@ redirect_from:
 ---
 
 ### Both cooperative project and personal project are included.
-## Cooperative project
+Cooperative project
+=====
 * To be updated
-## Personal project
+
+Personal project
+=====
 * To be updated
-## Personal trivial project
+
+
+Personal trivial project
+=====
 * To be updated
