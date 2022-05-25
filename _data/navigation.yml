@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-#  - title: "CV"
-#    url: /cv/
+  - title: "CV"
+    url: /files/CV_Guoming_Li.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
