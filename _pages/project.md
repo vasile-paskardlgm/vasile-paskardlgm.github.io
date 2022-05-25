@@ -12,3 +12,5 @@ redirect_from:
 * To be updated
 ## Personal project
 * To be updated
+## Personal trivial project
+* To be updated
