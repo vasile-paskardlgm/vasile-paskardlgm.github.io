@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a first-year master student in Institute of Automation, Chinese Academy of Sciences. I obtained my bachelor's degree in the School of Electronic and Information Engineering from South China University of Technology in 2020. My research interest is broadly on deep learning with a focus on graph learning and its appilications in real world. Recently, I began focusing on Graph Generation and imputation.  
+I am now a student in Institute of Automation, Chinese Academy of Sciences. I obtained my bachelor's degree in the School of Electronic and Information Engineering from South China University of Technology in 2020. My research interest is broadly on deep learning with a focus on graph learning and its appilications in real world. Recently, I began focusing on Graph Generation and imputation.  
 I am keen on the research which has both rigor in mathematics and outperformed results in experiments, e.g. Variational Auto-Encoder. I think we should not only focus on empirical result, i.e., SOTA, but also care about the interpretation (at least, it must be inductive or intuitive).  
 In the rest time, I will play soccer with my friends. 
 
@@ -18,7 +18,7 @@ News
 
 Education
 ======
-* M.S in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021-present
+* Postgraduate courses learning in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
 * B.Eng in Information Engineering, South China University of Technology, 2020
 
 Research interests
@@ -26,6 +26,7 @@ Research interests
 * Graph Learning's theory and its applications
 * Graph Neural Network in Network Science
 * Graph Struture Generation and Message Imputation
+* Graph Canonical Correlation Analysis
 
 Award
 =====
