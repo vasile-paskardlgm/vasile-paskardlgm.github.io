@@ -12,10 +12,10 @@ To know more about me, please click [CV](https://github.com/vasile-paskardlgm/va
 
 Education
 ======
-* B.S. in Information Engineering, South China University of Technology, 2016-2020
+* B.S. in Information Engineering, South China University of Technology, 2016.7-2020.7
 * Graduate courses study in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
 
-Work experience
+Top-tier experience
 ======
 * Sorry, I have no experience in top-tier research group......
   
