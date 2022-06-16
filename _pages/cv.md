@@ -13,7 +13,7 @@ To know more about me, please click [CV](https://github.com/vasile-paskardlgm/va
 Education
 ======
 * B.S. in Information Engineering, South China University of Technology, 2016-2020
-* M.S. in Social Computing(focus on Network Science), Institute of Automation, Chinese Academy of Sciences, 2021-present
+* Graduate courses study in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
 
 Work experience
 ======
