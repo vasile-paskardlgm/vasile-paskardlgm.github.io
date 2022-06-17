@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-To know more about me, please click [CV](https://github.com/vasile-paskardlgm/vasile-paskardlgm.github.io/blob/master/files/resume_guoming_li.pdf) and download it (I don't know how to inset a PDF into a github.io page) for more details.
+To know more about me, please click [CV](https://github.com/vasile-paskardlgm/vasile-paskardlgm.github.io/blob/master/files/resume_guoming_li.pdf) and view it online (I don't know how to inset a PDF into a github.io page) for more details.
 
 Education
 ======
