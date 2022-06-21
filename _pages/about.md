@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* To be updated.
+* I am going to have my 3rd (remote) research internship with [Dr.Dongsheng Luo](http://personal.psu.edu/dul262/)!
 
 Education
 ======
@@ -24,7 +24,7 @@ Education
 Research interests
 =====
 * Graph Learning's theory and its applications
-* Graph Signal Processing and Denoising
+* Graph Signal Processing and Denoising (Reconstruction)
 * Graph Struture Generation and Message Imputation
 * Graph Canonical Correlation Analysis
 * Graph Neural Network in Complex Network Science
