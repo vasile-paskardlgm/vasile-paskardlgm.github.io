@@ -14,18 +14,18 @@ redirect_from:
 
 News
 ======
-* I am going to have my 3rd (remote) research internship with [Dr.Dongsheng Luo](http://personal.psu.edu/dul262/)!
+* I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](http://personal.psu.edu/dul262/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
 
 Education
 ======
-* Postgraduate courses learning in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
-* B.Eng in Information Engineering, South China University of Technology, 2020
+* **Postgraduate courses learning** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
+* **B.Eng** in Information Engineering, South China University of Technology, 2020
 
 Research interests
 =====
 * Graph Learning's theory and its applications
 * Graph Signal Processing and Denoising (Reconstruction)
-* Graph Struture Generation and Message Imputation
+* Graph Struture Generation and Inference
 * Graph Canonical Correlation Analysis
 * Graph Neural Network in Complex Network Science
 
