@@ -16,7 +16,7 @@ Cooperative project
 
 Cooperative trivial project
 =====
-(with Kaibin and Di) **Image style transfer Apps** ***Our Server terminated now！***  
+(with Kaibin and Di) **Image style transfer Apps**  `Our Server terminated now!`  
 (with Zhibin) **Heat transfer model in protective clothing**
 
 Personal project
