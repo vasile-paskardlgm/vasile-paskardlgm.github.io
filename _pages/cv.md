@@ -17,7 +17,7 @@ Education
 
 Top-tier experience
 ======
-* To be updated.
+* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, 2020.12-2021.7
   
 Skills
 ======
