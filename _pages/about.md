@@ -15,7 +15,7 @@ redirect_from:
 
 News
 ======
-* I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](http://personal.psu.edu/dul262/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
+* I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
 
 Education
 ======
