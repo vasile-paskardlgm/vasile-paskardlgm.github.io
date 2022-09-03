@@ -7,7 +7,7 @@ redirect_from:
   - /project.html
 ---
 
-Both cooperative project and personal project are included. ***Details of some projects could not be presented.***
+Both cooperative project and personal project are included. ***Details of some projects could not be presented because of the non-disclosure agreements.***
 
 Cooperative project
 =====
