@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-To know more about me, please click [CV](/files/CV_guoming_li.pdf) and view it online (I don't know how to inset a PDF into a github.io page) for more details.
+To know more about me, please click [CV](/files/CV_guoming_li.pdf) and view it online.
 
 Education
 ======
@@ -18,6 +18,7 @@ Education
 Top-tier experience
 ======
 * **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, 2020.12-2021.7
+* **(Remote) Research Internship** in Florida International University, 2022.6-present
   
 Skills
 ======
