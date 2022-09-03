@@ -21,9 +21,4 @@ Cooperative trivial project
 
 Personal project
 =====
-* To be updated
-
-
-Personal trivial project
-=====
-* To be updated
+* To be updated  
