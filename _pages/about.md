@@ -19,7 +19,7 @@ News
 
 Education
 ======
-* **Postgraduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
+* **(Non-degree) Postgraduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
 * **B.Eng.** in Information Engineering, South China University of Technology, 2020
 
 Research interests
