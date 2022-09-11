@@ -13,7 +13,7 @@ To know more about me, please click [CV](/files/CV_guoming_li.pdf) and view it o
 Education
 ======
 * **B.Eng.** in Information Engineering, South China University of Technology, 2016.7-2020.7
-* **Graduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
+* **(Non-degree) Graduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
 
 Top-tier experience
 ======
