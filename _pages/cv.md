@@ -17,7 +17,7 @@ Education
 
 Top-tier experience
 ======
-* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, 2020.12-2021.7
+* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, 2020.12-2021.7(Full-Time); 2021.8-2022.5(Part-Time)
 * **(Remote) Research Internship** in Florida International University, 2022.6-present
   
 Skills
@@ -27,7 +27,7 @@ Skills
 
 Publications
 ======
-* To be updated.
+* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Hand for Personalized 3D Hand Reconstruction**, submission in [CVPR2023](https://cvpr2023.thecvf.com/)
   
 Talks
 ======
