@@ -10,6 +10,14 @@ redirect_from:
 {% include base_path %}
 To know more details about me, please click [Resume](/files/CV_guoming_li.pdf) and view it online.
 
+Research interests
+=====
+* Graph Learning's theory and its applications
+* Graph Signal Processing and Denoising (Reconstruction)
+* Graph Struture Generation and Inference
+* Graph Gaussian Processes
+* Graph Neural Network in Complex Network Science
+
 Education
 ======
 * **B.Eng.** in Information Engineering, South China University of Technology, 2016.7-2020.7
