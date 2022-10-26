@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-To know more about me, please click [CV](/files/CV_guoming_li.pdf) and view it online.
+To know more details about me, please click [Resume](/files/CV_guoming_li.pdf) and view it online.
 
 Education
 ======
