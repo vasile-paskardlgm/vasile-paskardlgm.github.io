@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* A submission in CVPR2023, paper is coming soon.  
 * I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
 
 Education
@@ -27,7 +28,7 @@ Research interests
 * Graph Learning's theory and its applications
 * Graph Signal Processing and Denoising (Reconstruction)
 * Graph Struture Generation and Inference
-* Graph Canonical Correlation Analysis
+* Graph Gaussian Processes
 * Graph Neural Network in Complex Network Science
 
 Award
