@@ -21,7 +21,7 @@ Research interests
 Education
 ======
 * **B.Eng.** in Information Engineering, South China University of Technology, 2016.7-2020.7
-* **(Non-degree) Graduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
+* **(Non-degree) Graduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.6
 
 Top-tier experience
 ======
