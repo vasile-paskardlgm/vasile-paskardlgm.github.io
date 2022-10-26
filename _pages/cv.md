@@ -25,9 +25,9 @@ Skills
 * Mathematical derivation
 * Coding, especially in Python
 
-Publications
+Awards
 ======
-* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Hand for Personalized 3D Hand Reconstruction**, submission in [CVPR2023](https://cvpr2023.thecvf.com/)
+* To be updated.
   
 Talks
 ======
