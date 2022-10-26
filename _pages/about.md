@@ -18,11 +18,6 @@ News
 * A submission in CVPR2023, paper is coming soon.  
 * I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
 
-Education
-======
-* **(Non-degree) Postgraduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.9
-* **B.Eng.** in Information Engineering, South China University of Technology, 2020
-
 Research interests
 =====
 * Graph Learning's theory and its applications
@@ -31,14 +26,10 @@ Research interests
 * Graph Gaussian Processes
 * Graph Neural Network in Complex Network Science
 
-Award
-=====
-* To be updated.
-
 Publications
-=====
-* To be updated.
+======
+* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Hand for Personalized 3D Hand Reconstruction**, submission in [CVPR2023](https://cvpr2023.thecvf.com/)
 
 Project
-=====
+======
 Please click [here](https://vasile-paskardlgm.github.io/project/) to more information about my projects.
