@@ -20,7 +20,7 @@ News
 
 Publications
 ======
-* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Hand for Personalized 3D Hand Reconstruction**, submission in [CVPR2023](https://cvpr2023.thecvf.com/)
+* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Human Hand**, submission in [CVPR2023](https://cvpr2023.thecvf.com/)
 
 Project
 ======
