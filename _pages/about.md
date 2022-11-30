@@ -15,7 +15,7 @@ redirect_from:
 
 News
 ======
-* A submission in [CVPR2023](https://cvpr2023.thecvf.com/), paper is coming soon.  
+* One submission to [CVPR2023](https://cvpr2023.thecvf.com/), paper will appear in Arxiv after rebuttal.  
 * I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/)! I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
 
 Publications
