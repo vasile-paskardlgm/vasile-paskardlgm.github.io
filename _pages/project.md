@@ -16,7 +16,7 @@ Both cooperative project and personal project are included. ***Details of some p
 **Deep learning method in Super-Resolution**, Nov 2019 – May 2020  
 
 ## *Other projects*  
-**Image style transfer Apps**, Mar 2019 – Jul 2019  `Our Server terminated now!`  
+**Image style transfer Apps**, Mar 2019 – Jul 2019  `Our Server has terminated now!`  
 **Heat transfer model in protective clothing**, Sep 2018 - Oct 2018  
 
 ## *Personal implementation*  
