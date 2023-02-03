@@ -15,13 +15,13 @@ redirect_from:
 
 News
 ======
-* A new submission to ICML2023.
-* I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). I am concentrated on a problem about ***denoising in both graph structure and graph signal***.
+* A new submission to **ICML2023**.  
+* I am now in my 3rd (remote) research internship with [Dr.Dongsheng Luo](https://users.cs.fiu.edu/~dluo/). I am concentrated on a problem about ***denoising in both graph structure and graph signal***.  
 
 Publications
 ======
-* Guoming Li, et al. An **ICML2023** submission.
-* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Human Hand**, arxiv version is coming soon.
+* Guoming Li, et al. An **ICML2023** submission.  
+* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Human Hand**, arxiv version is coming soon.  
 
 Project
 ======
