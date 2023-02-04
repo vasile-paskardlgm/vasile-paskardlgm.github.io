@@ -20,13 +20,13 @@ Research interests
 
 Education
 ======
-* **B.Eng.** in Information Engineering, South China University of Technology, 2016.7-2020.7
-* **(Non-degree) Graduate courses study** in Social Computing, Institute of Automation, Chinese Academy of Sciences, 2021.9-2022.6
+* **B.Eng.** in [Information Engineering, South China University of Technology](http://www2.scut.edu.cn/ee_en/), *2016.7-2020.7*
+* **(Non-degree) Graduate courses study** in [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/), *2021.9-2022.6*
 
 Top-tier experience
 ======
-* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, 2020.12-2021.7(Full-Time); 2021.8-2022.5(Part-Time)
-* **(Remote) Research Internship** in Florida International University, 2022.6-present
+* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, *2020.12-2021.7(Full-Time); 2021.8-2022.5(Part-Time)*
+* **(Remote) Research Internship** in Florida International University, *2022.6-present*
   
 Skills
 ======
