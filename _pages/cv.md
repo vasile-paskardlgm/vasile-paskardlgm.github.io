@@ -26,7 +26,7 @@ Education
 Top-tier experience
 ======
 * **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, *2020.12-2021.7(Full-Time); 2021.8-2022.5(Part-Time)*
-* **(Remote) Research Internship** in Florida International University, *2022.6-present*
+* **(Remote) Research Internship** in [Florida International University](https://www.cis.fiu.edu/), *2022.6-present*
   
 Skills
 ======
