@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 &emsp;**I am going to apply for MSc program in 2023 Fall**.  
-&emsp;In the past, I obtained my bachelor's degree in the School of Electronic and Information Engineering from South China University of Technology in 2020. My research interest is broadly on deep learning with a focus on graph learning and its appilications in real world. Recently, I began focusing on Graph Signal Processing and Graph Generation (for Link Prediction).  
-&emsp;I am keen on the research which has both rigor in mathematics and outperformed results in experiments, e.g. Variational Auto-Encoder. I think we should not only focus on empirical result, i.e., SOTA, but also care about the interpretation (at least, it must be intuitive).  
+&emsp;In the past, I obtained my bachelor's degree in the School of Electronic and Information Engineering from South China University of Technology in 2020. My research interest is broadly on deep learning with a focus on Graph Signal Processing(GSP) and its appilications in real world.  
+&emsp;I am keen on the research which has both rigor in mathematics and outperformed results in experiments, such as, Variational Auto-Encoder, Spectral Graph Theory, and so on. I think we should not only focus on empirical result, i.e., SOTA (~~yep, the most important thing of the paper~~), but also care about the interpretation (at least, it must be intuitive).  
 &emsp;In the rest time, I will play soccer with my friends. 
 
 
