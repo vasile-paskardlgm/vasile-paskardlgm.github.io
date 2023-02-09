@@ -12,11 +12,11 @@ To know more details about me, please click [Resume](/files/CV_guoming_li.pdf) a
 
 Research interests
 =====
-* Graph Learning's theory and its applications
 * Graph Signal Processing and Denoising (Reconstruction)
 * Graph Struture Generation and Inference
 * Graph Gaussian Processes
-* Graph Neural Network in Complex Network Science
+* Graph Learning's Theory and related applications
+* Statistical Signal Processing and Numerical Analysis
 
 Education
 ======
