@@ -11,7 +11,7 @@ redirect_from:
 To know more details about me, please click [Resume](/files/CV_guoming_li.pdf) and view it online.
 
 Research interests
-=====
+======
 * Graph Signal Processing and Denoising (Reconstruction)
 * Graph Struture Generation and Inference
 * Graph Gaussian Processes
