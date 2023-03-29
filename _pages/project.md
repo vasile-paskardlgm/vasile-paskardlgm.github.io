@@ -17,7 +17,6 @@ Nov 2019 – May 2020, **Deep learning method in Super-Resolution** (B.Eng thesi
 
 ## *Other projects*  
 Mar 2019 – Jul 2019, **Image style transfer Apps**  `Our Server has terminated now!`  
-Sep 2018 - Oct 2018, **Heat transfer model in protective clothing**  
 
 ## *Personal implementation*  
 * To be updated  
