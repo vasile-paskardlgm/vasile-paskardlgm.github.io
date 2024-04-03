@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to Paskard Li's Homepage!"
+title                    : "Hello!"
 title_separator          : "-"
 name                     : &name "Paskard Li"
 description              : &description "Let's Bridging the gap between Graph Signal Processing and Graph Learning"
