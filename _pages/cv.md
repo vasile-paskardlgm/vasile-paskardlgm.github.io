@@ -21,12 +21,11 @@ Research interests
 Education
 ======
 * **B.Eng.** in [Information Engineering, South China University of Technology](http://www2.scut.edu.cn/ee_en/)
-* **(Quit) Graduate study** in [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)
+* **(Quit)** in [Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)
 
 Experience
 ======
-* **Research Assistant** in Institute of Automation, Chinese Academy of Sciences, *2020.12-2021.7(Full-Time); 2021.8-2022.5(Part-Time)*
-* **(Remote) Research Internship** in [Florida International University](https://www.cis.fiu.edu/), *2022.6-present*
+* To be updated.
   
 Skills
 ======
