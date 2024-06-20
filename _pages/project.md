@@ -7,15 +7,4 @@ redirect_from:
   - /project.html
 ---
 
-Both cooperative project and personal project are included. ***Details of some projects could not be presented because of the non-disclosure agreements.***
-
-## *Research projects*  
-Aug 2022 – present, **Neural Parametric Modeling of Human Hand**  
-Dec 2020 – Jul 2021, **Network epidemic dynamic models of COVID-19 in China**  
-Nov 2020, **Deep learning method in Super-Resolution** (B.Eng thesis)  
-
-## *Other projects*  
-Mar 2019 – Jul 2019, **Image style transfer Apps**  `Our Server has terminated now!`  
-
-## *Personal implementation*  
 * To be updated  
