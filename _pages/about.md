@@ -13,7 +13,9 @@ redirect_from:
 
 Publications
 ======  
-* Jian Yang, Guoming Li, et al. **Neural Parametric Modeling of Human Hand**, arxiv version is coming soon.  
+* ***(ECCV 2024 accepted)*** [MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling](https://arxiv.org/abs/2406.16137)
+* *(arixv)* [Spectral GNN via Two-dimensional (2-D) Graph Convolution](https://arxiv.org/abs/2404.04559)
+* *(arxiv)* [Elevating Spectral GNNs through Enhanced Band-pass Filter Approximation](https://arxiv.org/abs/2404.15354)
 
 Project
 ======
