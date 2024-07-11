@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hello!"
 title_separator          : "-"
-name                     : &name "my"
+name                     : # &name "my"
 description              : &description "Let's Bridging the gap between Graph Signal Processing and Graph Learning"
 url                      : https://vasile-paskardlgm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
