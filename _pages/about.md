@@ -11,9 +11,12 @@ redirect_from:
 
 Academic Outcomes
 -----  
+* **ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters**  
+Guoming Li#, Jian Yang, Shangsong Liang  
+*Accepted in 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2025*  
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand)  
 Jian Yang, Jiakun Li, Guoming Li#, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan  
-*Accepted in European Conference on Computer Vision, ECCV 2024*  
+*Accepted in The 18th European Conference on Computer Vision, ECCV 2024*  
 * **Spectral GNN via Two-dimensional (2-D) Graph Convolution** [[paper]](https://arxiv.org/abs/2404.04559)  
 Guoming Li#, Jian Yang, Shangsong Liang, Dongsheng Luo  
 *Arxiv preprint*  
