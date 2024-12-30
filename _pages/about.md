@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Outcomes
 -----  
-* **ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters**  
+* **ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters** [[paper]](https://arxiv.org/abs/2412.19106)  
 Guoming Li#, Jian Yang, Shangsong Liang  
 *Accepted in 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2025*  
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand)  
