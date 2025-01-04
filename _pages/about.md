@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;I obtained my bachelor's degree in the School of Electronic and Information Engineering from South China University of Technology. My research interest is broadly on deep learning with a focus on Geometric / Graph Signal Processing (GSP) and its appilications in real world.  
+&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology. My research interests lie broadly in deep learning, with a particular focus on Geometric and Graph Signal Processing (GSP) and its real-world applications.  
 
 Academic Outcomes
 -----  
