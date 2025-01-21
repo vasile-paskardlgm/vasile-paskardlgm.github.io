@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology. My research interests lie broadly in **Signal Processing**, with a particular focus on Geometric and Graph Signal Processing (GSP) and its real-world applications, such as Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention on LLM for Scientific Discovery & Symbolic Regression.  
+&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology. My research interests lie broadly in **Signal Processing**, with a particular focus on Geometric and Graph Signal Processing (GSP) and its real-world applications, such as Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM for Scientific Discovery & Symbolic Regression.  
 
 Academic Outcomes
 -----  
