@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Outcomes
 -----  
-* *Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach* [[paper]](https://arxiv.org/abs/2404.15354)  
+* *Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach* [[paper]](https://arxiv.org/abs/2404.15354) [[code]](https://github.com/vasile-paskardlgm/TFGNN)  
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo  
 **Accepted in ACM The Web Conference 2025, WWW 2025**  
 * *ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters* [[paper]](https://arxiv.org/abs/2412.19106)  
