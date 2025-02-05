@@ -29,5 +29,5 @@ Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, T
 
 Academic Service
 -----
-* Conference Reviewer: TheWebConf 2025; ICASSP 2025; ICML 2025
+* Conference Reviewer: TheWebConf 2025; ICASSP 2025; ICML 2025; KDD 2025
 * Journal Reviewer: N/A
