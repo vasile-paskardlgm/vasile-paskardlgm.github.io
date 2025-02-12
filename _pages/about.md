@@ -24,7 +24,7 @@ Academic Outcome(s)
 * *MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling* [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand)  
 Jian Yang, Jiakun Li, **Guoming Li**, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan  
 **Accepted in The 18th European Conference on Computer Vision, ECCV 2024**
-* *A paper about GNN architecture*  
+* *A paper about the analysis and design of new GNN architecture*  
 **Guoming Li**, Jian Yang, Yifan Chen  
 **Under-review in a data mining conference**  
 * *A paper about scalable training of GNNs on heterophilic graphs*  
