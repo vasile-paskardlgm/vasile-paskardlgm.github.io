@@ -11,8 +11,10 @@ redirect_from:
 
 &emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests lie broadly in **Signal Processing & Information Theory**, with a particular focus on Geometric & Graph Signal Processing (GSP) and its real-world applications such as Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM for Scientific Discovery & Symbolic Regression.  
 
-$\color{red}{I\ am\ seeking\ a\ Ph.D.\ opportunity\ in\ 2025/2026.}$  
-$\color{red}{Eager\ to\ collaborate\ on\ the\ intersection\ of\ graphs,\ signal\ processing\ theory,\ and\ LLMs.\ Feel\ free\ to\ drop\ me\ a\ mail.}$
+````diff
+- I am seeking a Ph.D. opportunity in 2025/2026.
+- Eager to collaborate on the intersection of graphs, signal processing theory, and LLMs. Feel free to drop me a mail.
+````
 
 Academic Outcome(s)
 -----  
@@ -40,12 +42,12 @@ Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, T
 
 Experience(s)
 -----  
-* **Research Assistant,** Hong Kong Baptist University, 2024 - present  
-* **Research Internship,** Florida International University, 2022 - 2024  
-* **Engineer in Communication System,** China Telecom Guangzhou Research Institute, 2020 - 2021  
-* **Undergraduate Research,** South China University of Technology, 2018 - 2020  
+* **Research Assistant**, Hong Kong Baptist University, 2024 - present  
+* **Research Internship**, Florida International University, 2022 - 2024  
+* **Communication System Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
+* **Undergraduate Research**, South China University of Technology, 2018 - 2020  
 
 Academic Service(s)
 -----
-* Conference Reviewer: WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; ...
+* Conference Reviewer: WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
 * Journal Reviewer: N/A
