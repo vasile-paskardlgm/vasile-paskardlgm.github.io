@@ -11,10 +11,7 @@ redirect_from:
 
 &emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests lie broadly in **Signal Processing & Information Theory**, with a particular focus on Geometric & Graph Signal Processing (GSP) and its real-world applications such as Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM for Scientific Discovery & Symbolic Regression.  
 
-````diff
-- I am seeking a Ph.D. opportunity in 2025/2026.
-- Eager to collaborate on the intersection of graphs, signal processing theory, and LLMs. Feel free to drop me a mail.
-````
+### **I am seeking a Ph.D. opportunity in 2025/2026. Additionally, I am eager to collaborate on the intersection of graphs, signal processing theory, and LLMs. Feel free to drop me a mail, thanks :)**
 
 Academic Outcome(s)
 -----  
