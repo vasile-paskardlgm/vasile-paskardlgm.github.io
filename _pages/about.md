@@ -11,7 +11,7 @@ redirect_from:
 
 &emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests lie broadly in **Signal Processing & Information Theory**, with a particular focus on Geometric & Graph Signal Processing (GSP) and its real-world applications such as Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM for Scientific Discovery & Symbolic Regression.  
 
-### **I am seeking a Ph.D. opportunity in 2025/2026. Additionally, I am eager to collaborate on the intersection of graphs, signal processing theory, and LLMs. Feel free to drop me a mail, thanks :)**
+### **I am seeking a Ph.D. opportunity in 2025/2026. Also, I am eager to collaborate on the intersection of graphs, signal processing theory, and LLMs. Feel free to drop me a mail, thanks :)**
 
 Academic Outcome(s)
 -----  
@@ -35,13 +35,13 @@ Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, T
 **Under-review in a computer vision conference**  
 * *Spectral GNN via Two-dimensional (2-D) Graph Convolution* [[paper]](https://arxiv.org/abs/2404.04559)  
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo  
-**Arxiv preprint**
+**Arxiv preprint**  
 
 Experience(s)
 -----  
 * **Research Assistant**, Hong Kong Baptist University, 2024 - present  
 * **Research Internship**, Florida International University, 2022 - 2024  
-* **Communication System Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
+* **Communication System (RF) Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
 * **Undergraduate Research**, South China University of Technology, 2018 - 2020  
 
 Academic Service(s)
