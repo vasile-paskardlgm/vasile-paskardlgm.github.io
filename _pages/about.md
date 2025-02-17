@@ -39,6 +39,7 @@ Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, T
 
 Experience(s)
 -----  
+* **Research Internship**, SF Technology, 2025 - present  
 * **Research Assistant**, Hong Kong Baptist University, 2024 - present  
 * **Research Internship**, Florida International University, 2022 - 2024  
 * **Communication System (RF) Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
