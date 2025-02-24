@@ -15,25 +15,25 @@ redirect_from:
 
 Academic Outcome(s)
 -----  
-- `WWW'25` Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach <br>
+- **`WWW'25`** Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *ACM The Web Conference 2025* [[paper]](https://arxiv.org/abs/2404.15354) [[code]](https://github.com/vasile-paskardlgm/TFGNN)
-- `ICASSP'25` ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters <br>
+- **`ICASSP'25`** ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters <br>
 **Guoming Li**, Jian Yang, Shangsong Liang <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing* [[paper]](https://arxiv.org/abs/2412.19106)
-- `ECCV'24` MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling <br>
+- **`ECCV'24`** MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling <br>
 Jian Yang, Jiakun Li, **Guoming Li**, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision* [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand)
-- `Underreview` A paper about the analysis and design of new GNN architecture.<br>
+- **`Underreview`** A paper about the analysis and design of new GNN architecture.<br>
 **Guoming Li**, Jian Yang, Yifan Chen <br>
 *A data mining conference* 
-- `Underreview` A paper about scalable training of GNNs on heterophilic graphs.<br> 
+- **`Underreview`** A paper about scalable training of GNNs on heterophilic graphs.<br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
 *International Symposium on Information Theory 2025*
-- `Underreview` LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details <br>
+- **`Underreview`** LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details <br>
 Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, Tianyang Wang, Jason Zhaoxin Fan <br>
 *A computer vision conference* [[paper]](https://arxiv.org/abs/2410.00990)
-- `Preprint` Spectral GNN via Two-dimensional (2-D) Graph Convolution <br>
+- **`Preprint`** Spectral GNN via Two-dimensional (2-D) Graph Convolution <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *Arxiv preprint* [[paper]](https://arxiv.org/abs/2404.04559)
 
