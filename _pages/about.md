@@ -50,8 +50,6 @@ Academic Service(s)
 * Conference Reviewer: WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
 * Journal Reviewer: N/A
 
-{% include_relative _includes/services.md %}
-
 
 ---
 <div style="width: 40%; margin: 0 auto;">
