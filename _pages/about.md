@@ -15,24 +15,24 @@ redirect_from:
 
 Academic Outcome(s)
 -----  
+- `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening <br>
+**Guoming Li**, Jian Yang, Yifan Chen <br>
+*The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `WWW'25`&emsp; Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
-*ACM The Web Conference 2025* [[paper]](https://arxiv.org/abs/2404.15354) [[code]](https://github.com/vasile-paskardlgm/TFGNN)
+*The ACM Web Conference 2025* [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714760) [[code]](https://github.com/vasile-paskardlgm/TFGNN)
 - `ICASSP'25`&emsp; ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters <br>
 **Guoming Li**, Jian Yang, Shangsong Liang <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing* [[paper]](https://arxiv.org/abs/2412.19106)
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling <br>
 Jian Yang, Jiakun Li, **Guoming Li**, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision* [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand)
-- `Underreview`&emsp; A paper about the analysis and design of new GNN architecture.<br>
-**Guoming Li**, Jian Yang, Yifan Chen <br>
-*At a conference on data mining* 
 - `Underreview`&emsp; A paper about scalable training of GNNs on heterophilic graphs.<br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
 *At a conference on information theory*
 - `Underreview`&emsp; LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details <br>
 Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, Tianyang Wang, Jason Zhaoxin Fan <br>
-*At a conference on computer vision* [[paper]](https://arxiv.org/abs/2410.00990)
+*At a conference on machine learning* [[paper]](https://arxiv.org/abs/2410.00990)
 - `Preprint`&emsp; Spectral GNN via Two-dimensional (2-D) Graph Convolution <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *Arxiv preprint* [[paper]](https://arxiv.org/abs/2404.04559)
