@@ -15,7 +15,7 @@ redirect_from:
 
 Academic Outcome(s)
 -----  
-- `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
+- `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://arxiv.org/abs/2505.14033) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
 **Guoming Li**, Jian Yang, Yifan Chen <br>
 *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `WWW'25`&emsp; Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714760) [[code]](https://github.com/vasile-paskardlgm/TFGNN) <br>
