@@ -25,13 +25,13 @@ Academic Outcome(s)
 **Guoming Li**, Jian Yang, Shangsong Liang <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing* 
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
-Jian Yang, Jiakun Li, **Guoming Li**, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
+Jian Yang*, Jiakun Li*, **Guoming Li***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision* 
 - `Underreview`&emsp; A paper about scalable training of GNNs on heterophilic graphs. <br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
 *At a conference on artificial intelligence*
 - `Underreview`&emsp; LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details [[paper]](https://arxiv.org/abs/2410.00990) <br>
-Jian Yang, Xukun Wang, Wentao Wang, **Guoming Li**, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
+Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
 *At a conference on machine learning* 
 - `Preprint`&emsp; Spectral GNN via Two-dimensional (2-D) Graph Convolution [[paper]](https://arxiv.org/abs/2404.04559) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
