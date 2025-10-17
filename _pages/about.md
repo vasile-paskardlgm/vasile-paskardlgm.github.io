@@ -15,39 +15,42 @@ redirect_from:
 
 Academic Outcome(s)
 -----  
-- `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://arxiv.org/abs/2505.14033) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
+- `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737075) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
 **Guoming Li**, Jian Yang, Yifan Chen <br>
 *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `WWW'25`&emsp; Polynomial Selection in Spectral Graph Neural Networks: An Error-Sum of Function Slices Approach [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714760) [[code]](https://github.com/vasile-paskardlgm/TFGNN) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *The ACM Web Conference 2025* 
-- `ICASSP'25`&emsp; ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters [[paper]](https://arxiv.org/abs/2412.19106) <br>
+- `ICASSP'25`&emsp; ERGNN: Spectral Graph Neural Network with Explicitly-optimized Rational Graph Filters [[paper]](https://ieeexplore.ieee.org/abstract/document/10888930) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang <br>
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing* 
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
 Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision* 
-- `Underreview`&emsp; A paper about scalable training of GNNs on heterophilic graphs. <br> 
+- `Under Review at WWW'26`&emsp; On scalable training of heterophilic GNNs. <br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
-*At a conference on artificial intelligence*
-- `Underreview`&emsp; LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details [[paper]](https://arxiv.org/abs/2410.00990) <br>
+- `Under Review at ICLR'26`&emsp; Scaling recommendation models theoretically. <br> 
+**Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
+- `Under Review at IEEE TIP`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
 Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
-*At a conference on machine learning* 
+- `Under Review at ACL ARR October`&emsp; On LLM-based translation for academic text. <br>
+Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 - `Preprint`&emsp; Spectral GNN via Two-dimensional (2-D) Graph Convolution [[paper]](https://arxiv.org/abs/2404.04559) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *Arxiv preprint* 
 
 Experience(s)
 -----  
+* **Research Internship**, HKUST-GZ & Tencent, 2025 - present  
 * **Research Collaboration**, SF Technology, 2025 - present  
-* **Research Assistant**, Hong Kong Baptist University, 2024 - present  
+* **Visiting Research Assistant**, Hong Kong Baptist University, 2024 - 2025  
 * **Research Internship**, Florida International University, 2022 - 2024  
 * **Communication System (RF) Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
 * **Undergraduate Research**, South China University of Technology, 2018 - 2020  
 
 Academic Service(s)
 -----
-* Conference Reviewer: WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
+* Conference Reviewer: ICLR 2026; WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
 * Journal Reviewer: N/A
 
 
