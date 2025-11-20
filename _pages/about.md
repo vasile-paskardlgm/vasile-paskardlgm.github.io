@@ -31,6 +31,8 @@ Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <
 **Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
 - `Under Review at ICLR'26`&emsp; Scaling recommendation models theoretically. <br> 
 **Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
+- `Under Review at CVPR'26`&emsp; On efficient audio-driven facial animation. <br> 
+Jian Yang, **Guoming Li**, Hairong Shi, Chenyue Liang, Jintao Chen, Chengyu Bai, Jian Liang, Bin Liang, Zhaoxin Fan <br>
 - `Under Review at IEEE TIP`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
 Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
 - `Under Review at ACL ARR October`&emsp; On LLM-based translation for academic text. <br>
