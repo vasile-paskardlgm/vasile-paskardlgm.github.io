@@ -27,15 +27,17 @@ Academic Outcome(s)
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
 Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision* 
-- `Under Review at WWW'26`&emsp; On scalable training of heterophilic GNNs. <br> 
-**Guoming Li**, Jian Yang, Xukun Wang, Yifan Chen <br>
-- `Under Review at ICLR'26`&emsp; Scaling recommendation models theoretically. <br> 
+- `Under Review`&emsp; On scalable training of heterophilic GNNs. <br> 
+**Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
+- `Under Review`&emsp; Scaling recommendation models theoretically. <br> 
 **Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
-- `Under Review at CVPR'26`&emsp; On efficient audio-driven facial animation. <br> 
+- `Under Review`&emsp; Revisiting effective rank dynamics in recommenders. <br> 
+**Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
+- `Under Review`&emsp; On efficient audio-driven facial animation. <br> 
 Jian Yang, **Guoming Li**, Hairong Shi, Chenyue Liang, Jintao Chen, Chengyu Bai, Jian Liang, Bin Liang, Zhaoxin Fan <br>
-- `Under Review at IEEE TIP`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
+- `Under Review`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
 Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
-- `Under Review at ACL ARR October`&emsp; On LLM-based translation for academic text. <br>
+- `Under Review`&emsp; On LLM-based translation for academic text. <br>
 Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 - `Preprint`&emsp; Spectral GNN via Two-dimensional (2-D) Graph Convolution [[paper]](https://arxiv.org/abs/2404.04559) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
