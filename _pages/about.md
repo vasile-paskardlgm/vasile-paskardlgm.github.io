@@ -9,9 +9,9 @@ redirect_from:
 ---
 &emsp;I am a machine learning researcher specializing in graph mining and recommendation systems, and I currently work closely with [Junwei Pan](https://junwei-pan.github.io/) and [Menglin Yang](https://yangmenglinsite.github.io/). I was previously affiliated with MBZUAI, advised by [Xiuying Chen](https://iriscxy.github.io/) (MBZUAI), [Shangsong Liang](https://cse.sysu.edu.cn/teacher/LiangShangsong) (Sun Yat-sen University), and [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) (MBZUAI & CMU). Additionally, I have been fortunate to collaborate with several outstanding researchers, including [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/) (Florida International University) and [Yifan Chen](https://ychen-stat-ml.github.io/) (Hong Kong Baptist University).
 
-&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology (华南理工大学, SCUT) and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests broadly center on **Scalability** in **Machine Learning**, **Signal Processing** and **Information Theory**, with a particular focus on **Geometric & Graph-structured Data**. I also explore their implications for applications such as Graph Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM for Scientific Discovery.  
+&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology (华南理工大学, SCUT) and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests broadly center on **Scalability** in **Machine Learning**, **Signal Processing** and **Information Theory**, with a particular focus on **Geometric & Graph-structured Data**. I also explore their implications for applications such as Graph Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM and Recommender Systems.  
 
-### **I am seeking a Ph.D. opportunity. Also, I am open to chat on the intersection of graphs, signal processing, and LLMs. Feel free to drop me a mail :)**
+### **I am open to chat on the intersection of graphs, signal processing, and LLMs. Feel free to drop me a mail :)**
 
 Academic Outcome(s)
 -----  
@@ -26,7 +26,10 @@ Academic Outcome(s)
 *2025 IEEE International Conference on Acoustics, Speech, and Signal Processing* 
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
 Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
-*The 18th European Conference on Computer Vision* 
+*The 18th European Conference on Computer Vision*
+- `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing. <br>
+Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
+*The 64th Annual Meeting of the Association for Computational Linguistics*
 - `Under Review`&emsp; On scalable training of heterophilic GNNs. <br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
 - `Under Review`&emsp; Scaling recommendation models theoretically. <br> 
@@ -37,8 +40,6 @@ Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <
 Jian Yang, **Guoming Li**, Hairong Shi, Chenyue Liang, Jintao Chen, Chengyu Bai, Jian Liang, Bin Liang, Zhaoxin Fan <br>
 - `Under Review`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
 Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, Tianyang Wang, Xiaomei Zhang, Yeying Jin, Zhaoxin Fan <br>
-- `Under Review`&emsp; On LLM-based translation for academic text. <br>
-Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 - `Preprint`&emsp; Spectral GNN via Two-dimensional (2-D) Graph Convolution [[paper]](https://arxiv.org/abs/2404.04559) <br>
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *Arxiv preprint* 
