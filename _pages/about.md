@@ -13,8 +13,11 @@ redirect_from:
 
 ### **I am open to chat on the intersection of graphs, signal processing, and LLMs. Feel free to drop me a mail :)**
 
-Academic Outcome(s)
------  
+# Academic Outcome(s)
+
+- `KDD'26`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation <br> 
+**Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
+*The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737075) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
 **Guoming Li**, Jian Yang, Yifan Chen <br>
 *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
@@ -34,8 +37,6 @@ Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, 
 **Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
 - `Under Review`&emsp; Scaling recommendation models theoretically. <br> 
 **Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
-- `Under Review`&emsp; Revisiting effective rank dynamics in recommenders. <br> 
-**Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
 - `Under Review`&emsp; On efficient audio-driven facial animation. <br> 
 Jian Yang, **Guoming Li**, Hairong Shi, Chenyue Liang, Jintao Chen, Chengyu Bai, Jian Liang, Bin Liang, Zhaoxin Fan <br>
 - `Under Review`&emsp; Lipschitz-Driven Noise Robustness in VQ-AE for High-Frequency Texture Repair in ID-Specific Talking Heads <br>
@@ -44,8 +45,8 @@ Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, T
 **Guoming Li**, Jian Yang, Shangsong Liang, Dongsheng Luo <br>
 *Arxiv preprint* 
 
-Experience(s)
------  
+# Experience(s)
+
 * **Research Internship**, HKUST-GZ & Tencent, 2025 - present  
 * **Research Collaboration**, SF Technology, 2025 - present  
 * **Visiting Research Assistant**, Hong Kong Baptist University, 2024 - 2025  
@@ -53,8 +54,8 @@ Experience(s)
 * **Communication System (RF) Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
 * **Undergraduate Research**, South China University of Technology, 2018 - 2020  
 
-Academic Service(s)
------
+# Academic Service(s)
+
 * Conference Reviewer: ICLR 2026; WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
 * Journal Reviewer: N/A
 
