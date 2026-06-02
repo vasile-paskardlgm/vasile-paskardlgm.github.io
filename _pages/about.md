@@ -15,6 +15,9 @@ redirect_from:
 
 # Academic Outcome(s)
 
+- `UAI'26`&emsp; Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement <br> 
+**Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
+*The 42nd Conference on Uncertainty in Artificial Intelligence*
 - `KDD'26`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation <br> 
 **Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
 *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
@@ -30,11 +33,9 @@ redirect_from:
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
 Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision*
-- `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing. <br>
+- `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing <br>
 Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 *The 64th Annual Meeting of the Association for Computational Linguistics*
-- `Under Review`&emsp; On scalable training of heterophilic GNNs. <br> 
-**Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
 - `Under Review`&emsp; Scaling recommendation models theoretically. <br> 
 **Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
 - `Under Review`&emsp; On efficient audio-driven facial animation. <br> 
