@@ -18,7 +18,7 @@ redirect_from:
 - `UAI'26`&emsp; Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement <br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
 *The 42nd Conference on Uncertainty in Artificial Intelligence*
-- `KDD'26`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation <br> 
+- `KDD'26 Oral`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation <br> 
 **Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
 *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737075) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
