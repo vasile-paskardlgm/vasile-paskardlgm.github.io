@@ -50,16 +50,16 @@ Jian Yang, Xukun Wang, **Guoming Li**, Wentao Wang, Qihang Fang, Ruihong Yuan, T
 
 # Experience(s)
 
-* **Research Internship**, HKUST-GZ & Tencent, 2025 - present  
-* **Research Collaboration**, SF Technology, 2025 - present  
+* **Research Collaboration**, HKUST-GZ & Tencent, 2025 - present  
+* **Research Collaboration**, SF Technology, 2025 - 2026  
 * **Visiting Research Assistant**, Hong Kong Baptist University, 2024 - 2025  
-* **Research Internship**, Florida International University, 2022 - 2024  
+* **Research Collaboration**, Florida International University, 2022 - 2024  
 * **Communication System (RF) Engineer**, China Telecom Guangzhou Research Institute, 2020 - 2021  
 * **Undergraduate Research**, South China University of Technology, 2018 - 2020  
 
 # Academic Service(s)
 
-* Conference Reviewer: ICLR 2026; WWW 2025; ICASSP 2023/2024/2025; KDD 2025; CIKM 2024; ICDM 2024; etc.
+* Conference Reviewer: ADMA 2026; AAAI 2027; NeurIPS 2026; ICLR 2026; WWW 2025; ICASSP 2023/2024/2025/2026; KDD 2025; CIKM 2024; ICDM 2024; etc.
 * Journal Reviewer: N/A
 
 
