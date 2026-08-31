@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp;I am a machine learning researcher specializing in graph mining and recommendation systems, and I currently work closely with [Junwei Pan](https://junwei-pan.github.io/) and [Menglin Yang](https://yangmenglinsite.github.io/). I was previously affiliated with MBZUAI, advised by [Xiuying Chen](https://iriscxy.github.io/) (MBZUAI), [Shangsong Liang](https://cse.sysu.edu.cn/teacher/LiangShangsong) (Sun Yat-sen University), and [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) (MBZUAI & CMU). Additionally, I have been fortunate to collaborate with several outstanding researchers, including [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/) (Florida International University) and [Yifan Chen](https://ychen-stat-ml.github.io/) (Hong Kong Baptist University).
+&emsp; I am a machine learning researcher specializing in graph mining and recommender systems. I am currently affiliated with The Hong Kong Polytechnic University, where I work closely with [Wenqi Fan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-fan-wenqi/). I have previously been affiliated with several leading research institutions in AI, including HKUST-GZ, MBZUAI, and Institute of Automation, Chinese Academy of Sciences. Along the way, I have also had the privilege of collaborating with outstanding researchers, including [Junwei Pan](https://junwei-pan.github.io/) (Tencent), [Menglin Yang](https://yangmenglinsite.github.io/) (HKUST-GZ), [Xiuying Chen](https://iriscxy.github.io/) (MBZUAI), [Shangsong Liang](https://cse.sysu.edu.cn/teacher/LiangShangsong) (Sun Yat-sen University), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) (MBZUAI & Carnegie Mellon University), [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/) (Singapore Management University) and [Yifan Chen](https://ychen-stat-ml.github.io/) (Hong Kong Baptist University).
 
-&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology (华南理工大学, SCUT) and had a rewarding research experience at the Institute of Automation, Chinese Academy of Sciences. My research interests broadly center on **Scalability** in **Machine Learning**, **Signal Processing** and **Information Theory**, with a particular focus on **Geometric & Graph-structured Data**. I also explore their implications for applications such as Graph Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM and Recommender Systems.  
+&emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology (华南理工大学) and had a rewarding research experience there. My research interests broadly center on **Scalability** in **Machine Learning**, **Signal Processing** and **Information Theory**, with a particular focus on **Geometric & Graph-structured Data**. I also explore their implications for applications such as Graph Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM and Recommender Systems.  
 
 ### **I am open to chat on the intersection of graphs, signal processing, and LLMs. Feel free to drop me a mail :)**
 
@@ -36,6 +36,8 @@ Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <
 - `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing <br>
 Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 *The 64th Annual Meeting of the Association for Computational Linguistics*
+- `Under Review`&emsp; A practical solution for industrial time-series processing. <br> 
+Tianyi Qu, Hui Xu, Yeyu Qing, **Guoming Li**, Jian Jin, Huan Chen, Xiang Song, Yun Yang, Yifan Chen <br>
 - `Under Review`&emsp; Scaling recommendation models theoretically. <br> 
 **Guoming Li**, Jian Yang, Junwei Pan, Shangyu Zhang, Yi Yang, Chao Zhou, Shudong Huang, Haijie Gu, Yifei Zhang, Menglin Yang <br>
 - `Under Review`&emsp; On efficient audio-driven facial animation. <br> 
