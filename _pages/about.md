@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-&emsp; I am a machine learning researcher specializing in graph mining and recommender systems. I am currently affiliated with The Hong Kong Polytechnic University, where I work closely with [Wenqi Fan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-fan-wenqi/). I have previously been affiliated with several leading research institutions in AI, including HKUST-GZ, MBZUAI, and Institute of Automation, Chinese Academy of Sciences. Along the way, I have also had the privilege of collaborating with outstanding researchers, including [Junwei Pan](https://junwei-pan.github.io/) (Tencent), [Menglin Yang](https://yangmenglinsite.github.io/) (HKUST-GZ), [Xiuying Chen](https://iriscxy.github.io/) (MBZUAI), [Shangsong Liang](https://cse.sysu.edu.cn/teacher/LiangShangsong) (Sun Yat-sen University), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) (MBZUAI & Carnegie Mellon University), [Dongsheng Luo](https://users.cs.fiu.edu/~dluo/) (Singapore Management University) and [Yifan Chen](https://ychen-stat-ml.github.io/) (Hong Kong Baptist University).
+&emsp; I am a machine learning researcher. I am currently affiliated with The Hong Kong Polytechnic University, where I work closely with [Wenqi Fan](https://www.polyu.edu.hk/comp/people/academic-staff/prof-fan-wenqi/). I have previously been affiliated with several research institutions in AI, including HKUST-GZ, MBZUAI, and CASIA. Along the way, I have also had the privilege of collaborating with outstanding researchers, including [Junwei Pan](https://junwei-pan.github.io/) (Tencent), [Menglin Yang](https://yangmenglinsite.github.io/) (HKUST-GZ), [Xiuying Chen](https://iriscxy.github.io/) (MBZUAI), [Shangsong Liang](https://cse.sysu.edu.cn/teacher/LiangShangsong) (Sun Yat-sen University), [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) (MBZUAI & Carnegie Mellon University), [Dongsheng Luo](https://dluoedu.github.io/) (Singapore Management University) and [Yifan Chen](https://ychen-stat-ml.github.io/) (Hong Kong Baptist University).
 
 &emsp;I earned my bachelor’s degree from the School of Electronic and Information Engineering at South China University of Technology (华南理工大学) and had a rewarding research experience there. My research interests broadly center on **Scalability** in **Machine Learning**, **Signal Processing** and **Information Theory**, with a particular focus on **Geometric & Graph-structured Data**. I also explore their implications for applications such as Graph Anomaly Detection and Scene Graph Generation. Recently, I began to pay my attention to LLM and Recommender Systems.  
 
@@ -15,10 +15,10 @@ redirect_from:
 
 # Academic Outcome(s)
 
-- `UAI'26`&emsp; Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement <br> 
+- `UAI'26`&emsp; Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement [[paper]](https://proceedings.mlr.press/v337/li26j.html) [[code]](https://github.com/vasile-paskardlgm/ACE) <br> 
 **Guoming Li**, Jian Yang, Xukun Wang, Zixiao Wang, Shangsong Liang, Yifan Chen <br>
 *The 42nd Conference on Uncertainty in Artificial Intelligence*
-- `KDD'26 Oral`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation <br> 
+- `KDD'26 Oral`&emsp; Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation [[paper]](https://dl.acm.org/doi/10.1145/3770855.3818049) [[code]](https://github.com/vasile-paskardlgm/RankElastor) <br> 
 **Guoming Li**, Shangyu Zhang, Junwei Pan, Wentao Ning, Jin Chen, Gengsheng Xue, Chao Zhou, Shudong Huang, Haijie Gu, Menglin Yang <br>
 *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining* 
 - `KDD'25`&emsp; Partition-wise Graph Filtering: A Unified Perspective Through the Lens of Graph Coarsening [[paper]](https://dl.acm.org/doi/10.1145/3711896.3737075) [[code]](https://github.com/vasile-paskardlgm/CPF) <br>
@@ -33,7 +33,7 @@ redirect_from:
 - `ECCV'24`&emsp; MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_24) [[code]](https://github.com/jackyyang9/MLPHand) <br>
 Jian Yang\*, Jiakun Li\*, **Guoming Li\***, Zhen Shen, Huai-Yu Wu, Zhaoxin Fan <br>
 *The 18th European Conference on Computer Vision*
-- `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing <br>
+- `ACL'26 Findings`&emsp; GlossaGen: Making Academic Translation Smarter with Glossing [[paper]](https://aclanthology.org/2026.findings-acl.952/) [[code]](https://github.com/zxwang63/GlossaGen-Framework) <br>
 Zixiao Wang, Duzhen Zhang, Juntian Zhang, Yuhan Liu, **Guoming Li**, Haolun Wu, Le Song, Xiuying Chen <br>
 *The 64th Annual Meeting of the Association for Computational Linguistics*
 - `Under Review`&emsp; A practical solution for industrial time-series processing. <br> 
